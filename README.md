@@ -17,45 +17,43 @@ This repository documents my intensive Flutter learning journey - from basic wid
 ## 🗂️ Project Structure
 
 ### 🧩 Comprehensive Widget Mastery (49 Files!)
-
+```
 lib/
-├── widgets/ # Complete widget ecosystem
-│ ├── exd0_column.dart # Layout fundamentals
-│ ├── exd1_stack.dart # Stack positioning
-│ ├── exd2_positioned.dart
-│ ├── exd3_expanded.dart # Flexible layouts
-│ ├── exd4_profile_creation.dart
-│ ├── exd5_dividers.dart
-│ ├── exd6_gesturedetector.dart
-│ ├── exd7_inkwell.dart
-│ ├── exd8_listtile.dart
-│ ├── exd9_circularprogress.dart
-│ ├── exd10_streamcontroller.dart
-│ ├── exd11_listview.dart
-│ ├── exd12_listview_builder.dart
-│ ├── exd13_gridview.dart
-│ ├── exd14_gridview_builder.dart
-│ ├── exd15_gridtile.dart
-│ └── ... (34+ additional widget implementations!)
+├── widgets/                          # Complete widget ecosystem
+│   ├── exd0_column.dart              # Layout fundamentals
+│   ├── exd1_stack.dart               # Stack positioning
+│   ├── exd2_positioned.dart
+│   ├── exd3_expanded.dart            # Flexible layouts
+│   ├── exd4_profile_creation.dart
+│   ├── exd5_dividers.dart
+│   ├── exd6_gesturedetector.dart
+│   ├── exd7_inkwell.dart
+│   ├── exd8_listtile.dart
+│   ├── exd9_circularprogress.dart
+│   ├── exd10_streamcontroller.dart
+│   ├── exd11_listview.dart
+│   ├── exd12_listview_builder.dart
+│   ├── exd13_gridview.dart
+│   ├── exd14_gridview_builder.dart
+│   ├── exd15_gridtile.dart
+│   └── ... (34+ additional widget implementations!)
 │
-├── loginUI_miniPj/ # Authentication flows
-│ ├── sign_in.dart # Login screen
-│ ├── sign_up.dart # Registration screen
-│ └── sign_hr.dart # HR-themed login
+├── loginUI_miniPj/                   # Authentication flows
+│   ├── sign_in.dart                  # Login screen
+│   ├── sign_up.dart                  # Registration screen
+│   └── sign_hr.dart                  # HR-themed login
 │
-├── movieUI_app/ # Movie discovery app
-│ ├── movie.dart # Movie model
-│ ├── movie_page.dart # Main movie screen
-│ ├── trending_section.dart # Trending movies
-│ ├── suggestion_section.dart # Recommendations
-│ └── widgets.dart # Reusable movie widgets
+├── movieUI_app/                      # Movie discovery app
+│   ├── movie.dart                    # Movie model
+│   ├── movie_page.dart               # Main movie screen
+│   ├── trending_section.dart         # Trending movies
+│   ├── suggestion_section.dart       # Recommendations
+│   └── widgets.dart                  # Reusable movie widgets
 │
-├── navigation/ # App navigation patterns
-├── sample_screen/ # Various screen templates
-└── main.dart # Application entry point
-
-
----
+├── navigation/                       # App navigation patterns
+├── sample_screen/                    # Various screen templates
+└── main.dart                         # Application entry point
+```
 
 ## 🛠️ Technical Skills Demonstrated
 
